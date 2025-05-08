@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I believe a little more animation would make the project more appealing visually and be a fun challenge to code. I think a steaming coffee cup would be a nice visual on the menu page as well as a fun challenge to code.
